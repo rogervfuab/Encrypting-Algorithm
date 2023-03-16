@@ -76,3 +76,6 @@ If you want to use the app = Encrypting algorithms you have to do:
 		'http://localhost/3000' --> this is where React is from default.
 
 	10. When you are in the localhost, you can start using the app.
+	
+	11. When you finisch, go to both terminals and close it:
+		*[control+c]*
