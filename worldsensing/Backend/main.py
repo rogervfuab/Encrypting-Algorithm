@@ -1,10 +1,7 @@
 from fastapi import FastAPI, Request
 from pydantic import BaseModel
-from typing import Optional
-import time
 import uvicorn
 from SortMap import sorted_array
-import csv
 from fastapi.middleware.cors import CORSMiddleware
 
 
