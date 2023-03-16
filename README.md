@@ -70,7 +70,7 @@ If you want to use the app = Encrypting algorithms you have to do:
 		*cd path/Encrypting-Algorithms/worldsensing
 
 	8. execute this to view the frontend:
-		*rpm start*
+		*npm start*
 
 	9. After this starts, it will show up a page in the browser, if it is not the case, please go to you browser and write this:
 		'http://localhost/3000' --> this is where React is from default.
