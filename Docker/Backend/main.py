@@ -93,7 +93,6 @@ async def create_sortmap(request: Request):
 
 
 
-
 #update value
 @app.put('/api/sortmap/{sortmap_id}') 
 async def update_sortmap(sortmap_id:int,request:Request):
