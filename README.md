@@ -43,7 +43,7 @@ If you go to Docker:
 	After this if you want to run it, put this into the terminal:
 		
 		1. Open the directory:
-			*cd path/Docker*
+			*cd path/Encrypting-Algorithms/Docker*
 
 		2. Run this:		
 			*docker-compose up*
@@ -53,7 +53,7 @@ If you want to use the app = Encrypting algorithms you have to do:
 	1. Open a terminal
 
 	2. Go to the directory worldsensing and istall all the requirements:
-		*cd path/worldsensing*
+		*cd path/Encrypting-Algorithms/worldsensing*
 		*pip install -r requirements.txt* 
 
 	3. Go to the directory Backend,that you there is in the directory worldsensing,where you are right now:
@@ -67,7 +67,7 @@ If you want to use the app = Encrypting algorithms you have to do:
 	6. Open another terminal, without closing this one(if you close it, the api don't run and we can not make requests)
 
 	7. Open the directory wordsensing:
-		*cd path/worldsensing
+		*cd path/Encrypting-Algorithms/worldsensing
 
 	8. execute this to view the frontend:
 		*rpm start*
