@@ -63,7 +63,6 @@ async def get_sortmaps(request: Request):
 
 
 
-
 #create new entry
 @app.post('/api/sortmap',status_code=201)
 async def create_sortmap(request: Request):
